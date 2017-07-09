@@ -5,7 +5,7 @@ facebook ogタグの検証用リポジトリです
 
 https://developers.facebook.com/tools/debug/sharing/
 
-## 検証に使ったページ
+## 検証に使ったページ一覧
 
 https://a2kaido.github.io/web-ogtag-test/
 
